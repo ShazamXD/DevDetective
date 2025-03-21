@@ -2,19 +2,19 @@ DevDetective
 
 DevDetective is a web application that allows users to search for any GitHub account and retrieve detailed information about that account, including profile details, repositories, followers, and more.
 
-Features:-
+FEATURES:-
 
 Search for any GitHub user by username
 
-Display profile details (avatar, bio, location, etc.)
+-Display profile details (avatar, bio, location, etc.)
 
-Show public repositories, followers, and following count
+-Show public repositories, followers, and following count
 
-View account creation date and last activity
+-View account creation date and last activity
 
-Responsive design for all devices
+-Responsive design for all devices
 
-Technologies Used:-
+TECHNOLOGIES Used:-
 
 Frontend: HTML, CSS, JavaScript
 
